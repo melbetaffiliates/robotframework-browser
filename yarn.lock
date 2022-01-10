@@ -2488,10 +2488,10 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-playwright-core@=1.16.1:
-  version "1.16.1"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.16.1.tgz#f8564359c9b0881eab1de55ca7723b21539eb585"
-  integrity sha512-SdThyChaLkvFkVEPZ/pfhiaaD4pnBTts2MYZzRMS+fYeyHzPy/FI+NUTj5Rgs+ZN9BCIrbJhfzvfYBxco/4X4A==
+playwright-core@=1.17.2:
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.17.2.tgz#916254fa8fb3eb76c160b5c2e06bc979d6ec2cf8"
+  integrity sha512-TCYIt2UNHvqGxvD79bBjBv9osDLAH1gn7AZD5kRpMNQJG6BAmJt8B4Ek8fzdKmCQOnHf9ASJmcYRszoIZxcdVA==
   dependencies:
     commander "^8.2.0"
     debug "^4.1.1"
@@ -2510,12 +2510,12 @@ playwright-core@=1.16.1:
     yauzl "^2.10.0"
     yazl "^2.5.1"
 
-playwright@^1.16.1:
-  version "1.16.1"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.16.1.tgz#c3518b02448f7fd0246e8f4ccdc38ac4f74b428d"
-  integrity sha512-D7o7itqxsJ4vx4OlcPv9brOe74M2J4gDDt9qVI9ptgtHtxCi48I8tSXE/trX1PoHFuJeeVlo+tGvhtisvPGu1A==
+playwright@^1.17.2:
+  version "1.17.2"
+  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.17.2.tgz#918b9a7e43ac8640fa3e2162ce0cb8b395c55fb7"
+  integrity sha512-u1HZmVoeLCLptNcpuOyp5KfBzsdsLxE9CReK82i/p8j5i7EPqtY3fX77SMHqDGeO7tLBSYk2a6eFDVlQfSSANg==
   dependencies:
-    playwright-core "=1.16.1"
+    playwright-core "=1.17.2"
 
 please-upgrade-node@^3.2.0:
   version "3.2.0"
